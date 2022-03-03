@@ -4,13 +4,18 @@ import { StyleSheet } from 'react-native'
 export default StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',
+        paddingTop: 50,
         alignItems: 'center',
-        backgroundColor:'#afedfa',  
-           
-    },    
-    txt: {
-        fontSize:32,
-        fontFamily: 'Inter-Black',  
+        justifyContent: 'center',
+        backgroundColor:'#afedfa',
+    },
+    stretch: {
+        width: 200,
+        height: 200,        
+    },
+    h1: {
+        fontFamily: 'Inter-Black',
+        fontSize: 20,
     }
+
 })

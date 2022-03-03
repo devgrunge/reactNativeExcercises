@@ -10,7 +10,7 @@ const dummyArray = [
     { id: '5', value: 'E' },
     { id: '6', value: 'F' },
     { id: '7', value: 'G' },
-    { id: '8', value: 'ALEXANDER' },
+    { id: '8', value: 'H' },
     { id: '9', value: 'I' },
     { id: '10', value: 'J' },
     { id: '11', value: 'K' },
