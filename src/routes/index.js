@@ -6,6 +6,7 @@ import Home from '../pages/home'
 import ShowHour from '../pages/showHour'
 import FlatList from '../pages/flatList'
 import Photos from '../pages/photos'
+//import SignIn from '../pages/signIn'
 
 
 const Tab = createBottomTabNavigator();
